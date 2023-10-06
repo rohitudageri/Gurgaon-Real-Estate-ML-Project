@@ -23,6 +23,28 @@
 - Looking for properties that match your specific needs?
 - Discover properties based on location and radius preferences.
 - Get recommendations tailored to specific apartment types.
+
+# Machine Learning Development LifeCycle (MLDLC)
+- The steps i followed
+  
+1️⃣ Framing the Problem
+
+2️⃣ Gathering the Data
+
+3️⃣ Data Preprocessing
+
+4️⃣ Exploratory Data Analysis (EDA)
+
+5️⃣ Missing Value Imputation
+
+6️⃣ Outlier treatment
+
+7️⃣ Feature Engineering & Selection
+
+8️⃣ Model Training, Evaluation, and Selection
+
+9️⃣ Model Deployment
+
   
  # Skills:
 Python, Machine learning, EDA, Statistic, Model selection, Hyperparameter tuning, Machine Learning pipeline.
